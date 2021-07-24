@@ -5,7 +5,6 @@ const data = require("./db/db.json")
 
 let PORT = 3001
 
-app.u
 app.use(express.json());
 
 app.get('/notes', (req,res)=>{
