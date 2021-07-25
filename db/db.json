@@ -1,14 +1,22 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "id": "1",
+        "title": "Test Title",
+        "text": "Test text"
     },
     {
-        "title":"Test Title 2",
-        "text":"Test text"
+        "id": "2",
+        "title": "Test Title 2",
+        "text": "Test text"
     },
     {
-        "title":"Test Title 3",
-        "text":"Test text"
+        "id": "3",
+        "title": "Test Title 3",
+        "text": "Test text"
+    },
+    {
+        "title": "New",
+        "text": "notes",
+        "id": "2a276ee1-bd76-4d31-81a7-f9a7fc79038d"
     }
 ]
