@@ -1,22 +1,17 @@
 [
     {
-        "id": "1",
-        "title": "Test Title",
-        "text": "Test text"
+        "title": "First Note",
+        "text": "Some notes...",
+        "id": "2051de09-d1cb-4ef1-83c2-983f19aad8ca"
     },
     {
-        "id": "2",
-        "title": "Test Title 2",
-        "text": "Test text"
+        "title": "Another Note",
+        "text": "about something else...",
+        "id": "6ada1a6b-2da4-422f-add1-f5198e6cb62e"
     },
     {
-        "id": "3",
-        "title": "Test Title 3",
-        "text": "Test text"
-    },
-    {
-        "title": "New",
-        "text": "notes",
-        "id": "2a276ee1-bd76-4d31-81a7-f9a7fc79038d"
+        "title": "A Third Note",
+        "text": "just to say hello",
+        "id": "119c8c9b-112f-4756-bbdd-5769a60501d9"
     }
 ]
