@@ -1,25 +1,17 @@
 # NoteTaker lite
   Launch App: <a href="https://druludwig.github.io/11-note-taker/">https://druludwig.github.io/11-note-taker/</a> <br />
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)<br />
+  
   ## Description<br />
   Description<br />
-  ## Contents
-  - [Description](#Description)
-  - [Installation](#Installation)
-  - [Instructions](#Instructions)
-  - [Contributions](#Contributions)
-  - [Testing](#Testing)
-  - [License](#License)
-  - [Questions](#Questions)
  
   ## Installation<br />
   none<br />
+
   ## Instructions<br />
   instructions<br />
-  ## Contributions<br />
-  none<br />
-  ## Testing<br />
-  none<br />
+
+
   ## License<br />
   Use of this project is subject to the terms and conditions of the <a href="https://www.mit.edu/~amini/LICENSE.md">MIT License</a>.<br />
   ## Questions<br />
