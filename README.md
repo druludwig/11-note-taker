@@ -1,12 +1,14 @@
 <img src="./assets/logo.jpg" width=200px>
-<hr />
+<hr>
+  Launch App: <a href="https://druludwig.github.io/11-note-taker/" target="_blank">https://druludwig.github.io/11-note-taker/</a> 
 
-  Launch App: <a href="https://druludwig.github.io/11-note-taker/" target="_blank">https://druludwig.github.io/11-note-taker/</a> <br />
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
 
   ## Description
-  A simple note organizer that remembers your data from day to day.
+  A simple note organizer that remembers your data from day to day. This project reflects my understanding of the core concepts of Express.js. This has been an incredibly rewarding experience reaching this modest, but exciting moment in my full stack progress.
+  
+
  
   ## Installation
   This is a web-based app and does not require installation.
@@ -15,7 +17,6 @@
   Click the link above or click here:
   - Enter a title, compose your note, and click Save 💾
   - Click a note title to load the complete text
-
 
   ## License
   Use of this project is subject to the terms and conditions of the <a href="https://www.mit.edu/~amini/LICENSE.md">MIT License</a>.
