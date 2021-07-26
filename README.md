@@ -1,6 +1,6 @@
 <img src="./assets/logo.jpg" width=200px>
 <hr>
-  Launch App: <a href="https://druludwig.github.io/11-note-taker/" target="_blank">https://druludwig.github.io/11-note-taker/</a> 
+  Launch App: <a href="https://dl-11-note-taker.herokuapp.com" target="_blank">https://dl-11-note-taker.herokuapp.com</a> 
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
   
@@ -12,7 +12,7 @@
   This is a web-based app and does not require installation.
 
   ## Instructions
-  Click the link above or click <a href="https://druludwig.github.io/11-note-taker/">here</a>:
+  Click the link above or click <a href="https://dl-11-note-taker.herokuapp.com">here</a>:
   - Enter a title, compose your note, and click Save 💾
   - Click a note title to load the complete text
 
