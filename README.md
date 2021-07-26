@@ -6,7 +6,7 @@
   
 
   ## Description
-  A simple note organizer that remembers your data from day to day. This project reflects my understanding of the core concepts of Express.js. This has been an incredibly rewarding experience reaching this modest, but exciting moment in my full stack progress.
+  A simple note organizer that remembers your data from day to day. This project reflects my understanding of the core concepts of Express.js. This has been an incredibly rewarding experience reaching this modest, but significant step in my full stack progress.
    
   ## Installation
   This is a web-based app and does not require installation.
